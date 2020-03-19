@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+env/*
+*/.ipynb_checkpoints/*
+
+# 图像数据
+*/cifar-10-batches-py/*
+
+# gitignore the built release.
+# assignment3/*
