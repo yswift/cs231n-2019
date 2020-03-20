@@ -65,7 +65,9 @@ terminado==0.8.2
 testpath==0.4.2
 #torch==1.0.1.post2
 #torchvision==0.2.2.post3
-#tornado==6.0.2
+# 官网上查的，我没用GUP 版本
+# torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+tornado==6.0.2
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
